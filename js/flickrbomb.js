@@ -6,7 +6,7 @@
  * http://www.opensource.org/licenses/mit-license.php
 */
 
-var flickrbombAPIkey = '66b5c17019403c96779e8fe88d5b576d',  //your Flickr API key
+var flickrbombAPIkey = Drupal.settings.flickrbomb.apiKey,  //your Flickr API key
 
 /*  flickrbombLicenseTypes values (comma delimited)
 
